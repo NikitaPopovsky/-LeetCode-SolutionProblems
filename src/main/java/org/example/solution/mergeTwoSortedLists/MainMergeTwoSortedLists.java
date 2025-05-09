@@ -1,4 +1,4 @@
-package org.example;
+package org.example.solution.mergeTwoSortedLists;
 
 public class MainMergeTwoSortedLists {
     public static void main(String[] args) {
