@@ -1,6 +1,6 @@
-package org.example;
+package org.example.solution.mergeTwoSortedLists;
 
-public class MainFindMinimumTime_3342_1 {
+public class MainFindMinimumTime_3342_2 {
     public static void main(String[] args) {
 //        int[][] matrix = {
 //                {0, 0, 0, 0},  // Первая строка
@@ -19,7 +19,7 @@ public class MainFindMinimumTime_3342_1 {
                 {4, 4}  // Вторая строка
         };
 
-        int result = FindMinimumTime_3342_1.minTimeToReach(matrix);
+        int result = FindMinimumTime_3342_2.minTimeToReach(matrix);
         System.out.println(result);
     }
 

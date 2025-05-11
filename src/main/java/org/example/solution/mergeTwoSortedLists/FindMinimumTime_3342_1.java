@@ -1,4 +1,4 @@
-package org.example;
+package org.example.solution.mergeTwoSortedLists;
 
 //Сложное и неверное рещение
 public class FindMinimumTime_3342_1 {
